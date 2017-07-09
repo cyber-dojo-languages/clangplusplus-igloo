@@ -1,4 +1,4 @@
-CXXFLAGS += -I. -std=c++14 -Wall -Wextra -Werror -pthread
+CXXFLAGS += -I. -std=c++17 -Wall -Wextra -Werror -pthread
 CXXFLAGS += -fsanitize=undefined -fno-sanitize-recover=undefined
 CXXFLAGS += -fsanitize=address -fno-omit-frame-pointer
 
