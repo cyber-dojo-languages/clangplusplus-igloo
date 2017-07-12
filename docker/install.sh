@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 cd /usr/src
 git clone https://github.com/joakimkarlsson/igloo.git
