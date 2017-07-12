@@ -1,5 +1,5 @@
-FROM       cyberdojofoundation/clangplusplus:4.0.0
-MAINTAINER Byran Wills-Heath <byran@adgico.co.uk>
+FROM  cyberdojofoundation/clangplusplus:4.0.0
+LABEL maintainer=byran@adgico.co.uk
 
 ADD install.sh /
 
