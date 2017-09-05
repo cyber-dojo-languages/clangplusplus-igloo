@@ -1,5 +1,7 @@
 
 {
+  "display_name": "C++ (clang++), Igloo",
+
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
@@ -9,9 +11,9 @@
     "cyber-dojo.sh"
   ],
 
+  "image_name": "cyberdojofoundation/clangpp_igloo",
+
   "filename_extension" : ".cpp",
 
-  "display_name": "C++ (clang++), Igloo",
-
-  "image_name": "cyberdojofoundation/clangpp_igloo"
+  "runner_choice": "stateless"
 }
