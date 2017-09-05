@@ -1,6 +1,7 @@
 #!/bin/bash
 set -e
 
+apt-get update
 apt-get install --yes git
 
 cd /usr/src
