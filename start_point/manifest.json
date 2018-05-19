@@ -1,4 +1,3 @@
-
 {
   "display_name": "C++ (clang++), Igloo",
 
@@ -10,6 +9,8 @@
     "makefile",
     "cyber-dojo.sh"
   ],
+
+  "hidden_filenames": [ ".*\\.gcov", ".*\\.gcno" ],
 
   "image_name": "cyberdojofoundation/clangpp_igloo",
 
