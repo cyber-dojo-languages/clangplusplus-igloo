@@ -14,7 +14,5 @@
 
   "image_name": "cyberdojofoundation/clangpp_igloo",
 
-  "filename_extension": [ ".cpp", ".hpp" ],
-
-  "runner_choice": "stateless"
+  "filename_extension": [ ".cpp", ".hpp" ]
 }
