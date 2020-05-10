@@ -1,6 +1,6 @@
 {
+  "image_name": "cyberdojofoundation/clangpp_igloo",
   "display_name": "C++ (clang++), Igloo",
-
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
@@ -9,10 +9,8 @@
     "makefile",
     "cyber-dojo.sh"
   ],
-
-  "hidden_filenames": [ ".*\\.gcov", ".*\\.gcno" ],
-
-  "image_name": "cyberdojofoundation/clangpp_igloo",
-
-  "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ]
+  "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
+  "max_seconds": 10,
+  "tab_size": 4,
+  "hidden_filenames": [ ".*\\.gcov", ".*\\.gcno" ]
 }
