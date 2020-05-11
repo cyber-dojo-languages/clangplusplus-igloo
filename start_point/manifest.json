@@ -1,7 +1,8 @@
 {
   "image_name": "cyberdojofoundation/clangpp_igloo",
   "display_name": "C++ (clang++), Igloo",
-  "visible_filenames": [
+  "visible_filenames":
+  [
     "hiker.tests.cpp",
     "hiker.cpp",
     "hiker.hpp",
